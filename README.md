@@ -16,12 +16,12 @@
 
   
 ### *GitHub*
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: row; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
 
-![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogeriosrib&show_icons=true&theme=synthwave)
+  <img src="https://github-readme-stats.vercel.app/api?username=rogeriosrib&show_icons=true&theme=synthwave" alt="Roger's GitHub stats"/>
 
-[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriosrib&theme=synthwave)](https://github.com/rogeriosrib/github-readme-stats)
-
-
+  <a href="https://github.com/rogeriosrib/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriosrib&theme=synthwave" alt="Top Langs"/>
+  </a>
 
 </div>
