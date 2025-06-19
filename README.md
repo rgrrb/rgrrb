@@ -16,7 +16,7 @@
 
   
 ### *GitHub*
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
 
 ![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogeriosrib&show_icons=true&theme=synthwave)
 
