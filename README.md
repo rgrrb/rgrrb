@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./img/bg.png" style="width:400px; height:300px; object-fit: cover;">
+  <img src="./img/bg.jpeg" style="width:500px; height:300px; object-fit: cover;">
 </div>
 
 
