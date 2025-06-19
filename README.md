@@ -17,7 +17,10 @@
 ### *GitHub*
 <div style="display: inline_block" align="center">
 
-![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogeriosrib&show_icons=true&theme=dark)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriosrib)](https://github.com/rogeriosrib/github-readme-stats)
+![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogeriosrib&show_icons=true&theme=synthwave)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriosrib&theme=synthwave)](https://github.com/rogeriosrib/github-readme-stats)
+
+
 
 </div>
