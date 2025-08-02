@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./img/bg.jpeg" style="width:500px; height:300px; object-fit: cover;">
+  <img src="./img/bg.jpeg" style="width:500px; height:150px; object-fit: cover;">
 </div>
 
 
@@ -18,10 +18,10 @@
 ### *GitHub*
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
-  <img style="width: 480px;" src="https://github-readme-stats.vercel.app/api?username=rogeriosrib&show_icons=true&theme=synthwave" alt="Roger's GitHub stats"/>
+  <img style="width: 480px;" src="https://github-readme-stats.vercel.app/api?username=rgrrb&show_icons=true&theme=synthwave" alt="Roger's GitHub stats"/>
 
   <a href="https://github.com/rogeriosrib/github-readme-stats">
-    <img style="height: 199px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriosrib&theme=synthwave" alt="Top Langs"/>
+    <img style="height: 199px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgrrb&theme=synthwave" alt="Top Langs"/>
   </a>
 
 </div>
