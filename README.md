@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./img/bg.jpeg" style="width:500px; height:150px; object-fit: contain;">
-</div>
+
 
 
 ---
