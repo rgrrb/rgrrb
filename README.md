@@ -12,8 +12,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=rgrrb&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rgrrb&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=rgrrb&icon=0&color=0)](https://visitcount.itsvg.in)
